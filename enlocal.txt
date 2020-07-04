@@ -2,4 +2,8 @@ desde la pc local
 
 
 
+
 actualizo desde el pc
+
+cambios desde el repositorio github
+
